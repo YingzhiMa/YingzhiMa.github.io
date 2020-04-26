@@ -1,7 +1,7 @@
 <?php
 
 // Define some constants
-define( "RECIPIENT_NAME", "Yingzhi Ma" );
+define( "RECIPIENT_NAME", "yingzhima1219@gmail.com");
 define( "RECIPIENT_EMAIL", "yingzhima1219@gmail.com" );
 define( "EMAIL_SUBJECT", "Notespeak Website User E-mail" );
 
